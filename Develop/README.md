@@ -12,7 +12,7 @@ Current time is red, past time is grey and future time is green.
 
 
 
-![Alt text](daily-schedule-planner-apis/Assets/asset-dailyscheduler-function.gif)
+![Alt text](../Assets/asset-dailyscheduler-function.gif)
 
 ## Development
 
