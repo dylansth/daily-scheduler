@@ -1,5 +1,7 @@
 # Daily Scheduler using 3rd-Party API's
 
+Deployed site: https://grown-simba.github.io/daily-scheduler/
+
 ## Usage
 
 Hourly workday calender for scheduling your day between the 8am - 6pm.
