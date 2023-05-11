@@ -10,7 +10,6 @@ Manage saved items in your schedule through the browsers local storage.
 
 Current time is red, past time is grey and future time is green.
 
-See the .gif below
 
 
 ![Alt text](daily-schedule-planner-apis/Assets/asset-dailyscheduler-function.gif)
