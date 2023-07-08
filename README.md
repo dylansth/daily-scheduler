@@ -1,6 +1,6 @@
 # Daily Scheduler using 3rd-Party API's
 
-Deployed site: https://grown-simba.github.io/daily-scheduler/
+Deployed site: https://dylansth.github.io/daily-scheduler/
 
 ## Usage
 
